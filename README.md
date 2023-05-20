@@ -1,9 +1,6 @@
 # expertapps_task
-expertapps_task
-# task-appium
 
-
-cucumber , Java , TestNG , Maven , POM
+#cucumber , Java , TestNG , Maven , POM
 
 # how to excute this test script ?
 - download code on your local machine
